@@ -4,6 +4,6 @@ This project requires Python3 and the requests package.
 First install pipenv, then:
 ```
 pipenv install
-pipenv run "python test.py"
+pipenv run "Boto3_test/python test.py"
 
 ```
